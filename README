@@ -1,2 +1,4 @@
 A small Magento extensions that makes it possible to delete (test)-orders from the Magento Backend.
 Status: unstable development version.
+
+Add magic/delete in the end of the url to show delete option in the order management screen.
